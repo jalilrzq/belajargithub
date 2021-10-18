@@ -13,3 +13,4 @@ Belajar Github dari Kelas Dicoding
 
 18 Oktober 2021
 - Belajar Squashing
+- Praktek melakukan Squash Changes
