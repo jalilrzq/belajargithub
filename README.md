@@ -10,3 +10,6 @@ Belajar Github dari Kelas Dicoding
 16 Oktober 2021
 - Belajar membuat repository pada Github
 - Belajar membuat link dengan format markdown (.md)
+
+18 Oktober 2021
+- Belajar Squash
