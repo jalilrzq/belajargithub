@@ -15,4 +15,6 @@ Belajar Github dari Kelas Dicoding
 - Belajar Squashing
 - Praktek melakukan Squash Changes
 - Latihan Teknik Squashing
-- Code reviews
+
+21 Oktober 2021
+- Code review atau Ulasan kode pada Github adalah pengecekan kode yang dibuat
