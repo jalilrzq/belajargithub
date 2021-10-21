@@ -15,3 +15,4 @@ Belajar Github dari Kelas Dicoding
 - Belajar Squashing
 - Praktek melakukan Squash Changes
 - Latihan Teknik Squashing
+- Code reviews
